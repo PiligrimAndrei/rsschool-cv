@@ -6,6 +6,7 @@ ____
 * e-mail: andrei@krasko.by
 * Telegram: @AndreiKrasko
 * Discord: @AndreiKrasko#5147
+* Linkedin: kraskoandrei
 
 ____
 ### ABOUT ME:
@@ -19,7 +20,9 @@ I always had a dream to learn programming, I think I can do it with a mathematic
 * HTML5 CSS
 * SQL BASIC (self made MS Access base in 2004)
 * PASCAL, ASSEMBLER in 1990s
-* JavaScripts Basic
+* JavaScript
+* TypeScript basic
+* NodeJs Basic
 
 ----
 ### CODE EXAMPLE:
@@ -45,7 +48,10 @@ function multiply(a, b){
 ----
 ### EDUCATION AND COURSES
 * Vitebsk State University, Faculty of Physics and Mathematics 
-* https://learn.javascript.ru/ (in progress)
+* https://learn.javascript.ru/
+* RS School Frontend/Javascript stage2 (in progress)
+* RS School NodeJs (in progress)
+* Streamline English A2 courses
 
 
 ----
